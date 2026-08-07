@@ -1,24 +1,106 @@
-This is free and unencumbered software released into the public domain.
+4R022 StreamDeck 2.0V — Özel Kullanım Lisansı (Proprietary License)
+Telif Hakkı (c) 2026 Kaan Kross — 4R022. Tüm hakları saklıdır.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+TÜRKÇE
+================================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Bu yazılım ("4R022 StreamDeck 2.0V" ya da "Yazılım"), Kaan Kross'a ait "4R022" markası
+altında geliştirilmiş, telif hakkıyla korunan özel mülk (proprietary) bir
+yazılımdır. Bu Yazılımı indirmek, kurmak ya da kullanmakla, aşağıdaki şartları
+kabul etmiş sayılırsınız.
 
-For more information, please refer to <https://unlicense.org>
+1. Kullanım İzni
+   Bu Yazılımı kişisel ve ticari olmayan amaçlarla indirebilir, kurabilir ve
+   kullanabilirsiniz.
+
+2. Yasaklanan Eylemler
+   Kaan Kross / 4R022'nin önceden açık ve yazılı izni olmadan aşağıdakiler
+   kesinlikle yasaktır:
+
+   a) Yazılımın kaynak kodunun tamamının veya bir kısmının kopyalanması,
+      çoğaltılması, dağıtılması ya da GitHub dahil başka herhangi bir platformda
+      yeniden yayımlanması,
+   b) Yazılımın tersine mühendisliğe (reverse engineering) tabi tutulması,
+      kaynak koda dönüştürülmesi (decompile), derlenmiş halinin çözümlenmesi
+      (disassemble) ya da türev bir çalışma oluşturulması,
+   c) "4R022" markasının, adının, logosunun ya da görsel kimliğinin izinsiz
+      kullanılması, taklit edilmesi ya da başka bir ürün/marka altında
+      sunulması,
+   d) Yazılımın veya herhangi bir parçasının ticari amaçla satılması,
+      kiralanması, alt lisanslanması ya da bir ürüne/hizmete dahil edilmesi,
+   e) Yazılımın kod tabanının, mimarisinin, arayüz tasarımının ya da özgün
+      fikirlerinin izinsiz biçimde başka projelerde kullanılması.
+
+3. Fikri Mülkiyet
+   Yazılımla ilgili tüm fikri mülkiyet hakları — kaynak kod, mimari, tasarım,
+   marka, logo ve isim dahil ancak bunlarla sınırlı olmaksızın — münhasıran
+   Kaan Kross'a aittir. Bu lisans size yalnızca Yazılımı kullanma hakkı tanır;
+   hiçbir mülkiyet ya da fikri mülkiyet hakkı devretmez.
+
+4. Sorumluluk Reddi
+   Yazılım "OLDUĞU GİBİ" ve hiçbir açık ya da zımni garanti verilmeksizin
+   sunulur. Yazılımın kullanımından, kurulumundan ya da kullanılamamasından
+   doğabilecek doğrudan, dolaylı, arızi ya da sonuç niteliğindeki hiçbir
+   zarardan Kaan Kross / 4R022 sorumlu tutulamaz.
+
+5. Fesih
+   Bu şartlardan herhangi birinin ihlali halinde, Yazılımı kullanma izniniz
+   otomatik ve derhal sona erer. Kaan Kross, izinsiz kullanım, kod hırsızlığı
+   ya da marka ihlali durumunda yasal yollara başvurma hakkını saklı tutar.
+
+6. İletişim
+   Kullanım izni talepleri, iş birliği önerileri ya da sorularınız için proje
+   sahibine bu GitHub deposu üzerinden ulaşabilirsiniz.
+
+
+ENGLISH (Summary — the Turkish text above is authoritative)
+================================================================================
+
+Copyright (c) 2026 Kaan Kross — 4R022. All rights reserved.
+
+This software ("4R022 StreamDeck 2.0V" or the "Software") is proprietary, copyrighted
+software developed by Kaan Kross under the "4R022" brand. By downloading,
+installing, or using this Software, you agree to the following terms.
+
+1. Permitted Use
+   You may download, install, and use this Software for personal,
+   non-commercial purposes.
+
+2. Prohibited Actions
+   Without prior explicit written permission from Kaan Kross / 4R022, you may
+   NOT:
+
+   a) Copy, reproduce, redistribute, or republish the Software's source code,
+      in whole or in part, on GitHub or any other platform;
+   b) Reverse-engineer, decompile, disassemble, or create derivative works
+      based on this Software;
+   c) Use, imitate, or present the "4R022" name, brand, or logo without
+      authorization, or present it under another product/brand;
+   d) Sell, rent, sublicense, or otherwise commercially exploit the Software
+      or any part of it;
+   e) Reuse the codebase, architecture, interface design, or original ideas
+      of this Software in other projects without permission.
+
+3. Intellectual Property
+   All intellectual property rights in the Software — including but not
+   limited to source code, architecture, design, brand, logo, and name —
+   remain the exclusive property of Kaan Kross. This license grants only a
+   right to use the Software; it does not transfer any ownership or
+   intellectual property rights.
+
+4. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL KAAN KROSS / 4R022 BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. Termination
+   Violation of any of these terms automatically and immediately terminates
+   your right to use the Software. Kaan Kross reserves the right to pursue
+   legal action in the event of unauthorized use, code theft, or brand
+   infringement.
+
+6. Contact
+   For permission requests, collaboration proposals, or questions, please
+   reach out to the project owner via this GitHub repository.
