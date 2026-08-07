@@ -34,14 +34,8 @@ tamamen yazılımla ve bedava sağlamak.
 
 ## Kurulum
 
-### Seçenek A — Hazır .exe ile (önerilen)
 
-1. [Releases](../../releases) sekmesinden en güncel `4R022_StreamDeck.exe` dosyasını indir.
-2. Çift tıkla, çalıştır. Kurulum gerekmez.
-3. `keyboard` kütüphanesi global klavye kancası kullandığı için Windows'ta
-   **yönetici olarak çalıştırman** gerekebilir.
-
-### Seçenek B — Kaynak koddan çalıştırma
+### Seçenek A — Kaynak koddan çalıştırma
 
 ```bash
 git clone <bu-repo-linki>
@@ -50,9 +44,11 @@ pip install -r requirements.txt
 pythonw 4R022_StreamDeck.pyw
 ```
 
-### Seçenek C — Kendi .exe'ni derleme
+### Seçenek B — Kendi .exe'ni derleme
 
 Windows'ta proje klasöründeyken:
+
+ZIP'i Ayıklayın,
 
 ```bash
 build.bat
