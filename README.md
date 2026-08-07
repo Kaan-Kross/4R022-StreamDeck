@@ -32,17 +32,6 @@ tamamen yazılımla ve bedava sağlamak.
 
 ---
 
-## Ekran Görüntüsü
-
-<p align="center">
-  <img src="assets/icon.png" width="220" alt="4R022 StreamDeck 2.0V">
-</p>
-
-*(Panelin ve ayarlar ekranının gerçek ekran görüntülerini buraya ekleyebilirsin —
-`assets/` klasörüne koyup bu satırı güncellemen yeterli.)*
-
----
-
 ## Kurulum
 
 ### Seçenek A — Hazır .exe ile (önerilen)
